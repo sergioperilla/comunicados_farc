@@ -20,10 +20,7 @@ A continuación, se presentan algunas preguntas que hacen parte de la motivació
  - Para realiazar el scrapping de cada uno de los comunicados, se usaron las librerias de BeautifulSoup, pandas, matplotlib y urllib.request.
 
 ### 2. Los códigos    
- - El objetivo del código _Scrapping_Comunicados_ es crear un loop que vaya a cada uno de los links donde se encuentra el comunicado. Luego que extraiga el texto del comunicado y finalmente que lo guarde como un archivo de texto en el directorio de comunicados.
- - El objetivo del código _Nltk_Comunicados_ es realizar el análisis de texto de los documentos tratados como un corpus.
- - El objetivo del código _Gráficas_Comunicados_ es realizar el análisis de los documentos a través de imágenes.
- - Los códigos _Limpieza de Textos_ se encargan de limpiar: puntuación, stopwords y caracteres numéricos.     
+ - Pronto será actualizado    
     
 
 Algunos reusultados interesantes:
